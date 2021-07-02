@@ -7,5 +7,5 @@ gem 'shotgun'
 gem 'rspec'
 gem 'capybara'
 
-gem 'learn-co'
+gem 'learn-co', '>= 4.0.0'
 gem 'rubocop'
